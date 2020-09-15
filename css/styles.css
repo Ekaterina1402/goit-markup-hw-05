@@ -206,7 +206,7 @@ ul {
   content: "";
   position: absolute;
   left: 0;
-  bottom: -37px;
+  bottom: -36px;
   display: flex;
   width: 100%;
   height: 4px;
@@ -713,6 +713,14 @@ img {
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.1);
   outline: #fff;
+}
+.icon-svg {
+  width: 18px;
+  height: 18px;
+  margin-top: 6px;
+  justify-content: center;
+  align-items: center;
+  fill: var(--black-color);
 }
 
 /* Стили для portfolio.html */
